@@ -12,7 +12,7 @@ This project aims to analyze the prices of Airbnb listings in Seattle using Tabl
 
 **Data Source**
 
-The data used in this project is sourced from [Airbnb](https://www.airbnb.com/) and specifically focuses on listings in Seattle.
+The data used in this project is sourced from [Airbnb](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) and specifically focuses on listings in Seattle.
 
 **Technologies Used**
 
@@ -21,14 +21,8 @@ The data used in this project is sourced from [Airbnb](https://www.airbnb.com/) 
 **Getting Started**
 
 To explore the dashboard:
+[Tableau dashboard airbnb seattle data](https://public.tableau.com/app/profile/bailasan.zakarneh/viz/Tableaudashboardairbnbseattledata/Dashboard1?publish=yes)
 
-1. Download or clone the repository.
-2. Open the Tableau file (.twb) in Tableau Desktop or Tableau Public.
-3. Interact with the dashboard to gain insights into Airbnb prices in Seattle.
-
-**License**
-
-This project is licensed under the [MIT License](LICENSE).
 
 **Acknowledgments**
 
